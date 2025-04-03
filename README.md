@@ -27,3 +27,7 @@ Visuals help in understanding the spread and recovery patterns.
 Forecasting can aid in planning and resource allocation.
 
 Dashboards offer a real-time summary of evolving trends globally and locally.
+![image](https://github.com/user-attachments/assets/a0ed0475-0473-4e94-a8c7-e4cd43be33ce)
+![image](https://github.com/user-attachments/assets/3f13260d-b0c3-4941-8a13-d55e033dd4dc)
+![image](https://github.com/user-attachments/assets/2fcd4fa2-c879-40e5-a797-cbfbd5308dda)
+
